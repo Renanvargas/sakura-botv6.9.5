@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/314f7d5d2c494db3a7b82.jpg" alt="SAKURA-BOT V6.9.5✓" width="720">
+<img src= "https://t1.pixhost.to/thumbs/11485/682603157_whatsapp_image.jpg" alt="SAKURA-BOT V6.9.5✓" width="720">
 </p>
 
 <p align="center">
